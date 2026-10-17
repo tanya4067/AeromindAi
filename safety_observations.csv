@@ -1,0 +1,6 @@
+observation_id,date,area,observation,severity,status
+SAFE-001,2026-10-12,Assembly Bay A,Walkway partially obstructed by packaging,HIGH,OPEN
+SAFE-002,2026-10-11,Tooling Cell,Housekeeping follow-up required near workbench,MEDIUM,IN_PROGRESS
+SAFE-003,2026-10-10,Stores,Material labels difficult to read,LOW,CLOSED
+SAFE-004,2026-10-09,Assembly Bay B,Ergonomic review requested for repetitive task,MEDIUM,OPEN
+SAFE-005,2026-10-08,Inspection Area,Clear access to emergency equipment needs verification,HIGH,IN_PROGRESS

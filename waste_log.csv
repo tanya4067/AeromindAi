@@ -1,0 +1,9 @@
+date,area,waste_type,waste_kg,reason
+2026-10-05,Assembly,Scrap metal,4.2,Rework/scrap sample
+2026-10-06,Stores,Packaging,2.4,Packaging sample
+2026-10-07,Tooling,Consumables,1.1,Consumable waste
+2026-10-08,Assembly,Scrap metal,3.7,Offcut sample
+2026-10-09,Stores,Packaging,1.8,Packaging sample
+2026-10-10,Tooling,Coolant/fluids,0.9,Fluid waste sample
+2026-10-11,Assembly,Scrap metal,5.1,Rework/scrap sample
+2026-10-12,Stores,Packaging,2.0,Packaging sample
