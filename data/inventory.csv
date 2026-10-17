@@ -1,0 +1,5 @@
+component_id,component_name,current_stock,incoming_quantity,incoming_date,lead_time_days,safety_stock,unit_cost
+FASTENER-M8,M8 Fastener,520,0,,5,180,1.25
+SEAL-KIT-2,Seal Kit Type 2,310,80,2026-10-16,3,110,8.5
+BRACKET-A1,Mounting Bracket A1,760,100,2026-10-14,4,200,12.0
+FILTER-X3,Hydraulic Filter X3,95,40,2026-10-18,7,80,24.0
